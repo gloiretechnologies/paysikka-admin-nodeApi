@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "269819825654",
+      "project_id": "notifications-fad9d",
+      "storage_bucket": "notifications-fad9d.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:269819825654:android:fd6bfeda40318772cd8bd7",
+          "android_client_info": {
+            "package_name": "paysikka.notification"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "269819825654-i44ueae36p4f7ob5f6g1a5foviaseaef.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDxkWyVJz1v350MXeIeC-NXdZXPjpdfli0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "269819825654-i44ueae36p4f7ob5f6g1a5foviaseaef.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  
